@@ -26,6 +26,8 @@ TP_Q1: This query converts the user's date of birth into their age as an integer
 TP_Q2: This query returns the username of accounts that have more followers than the average amount of followers for all accounts. A manager may be interested in this information to improve its algorithm and search engine.
 ![Screen Shot 2023-03-30 at 6 14 42 PM](https://user-images.githubusercontent.com/128401988/228975924-504bf5ab-16bc-4833-bd52-2227b2c1594b.png)
 
+TP_Q3:
+TP_Q9: This query returns the account type and number of times each account type schedules content. A query like this is helpful for determining which types of accounts use the content scheduler and adding possible features that cater towards those accounts (ex. If a sports team has games every Saturday at noon, they can schedule a recurring post).
 
 
 *INSERT matrix of query features*
