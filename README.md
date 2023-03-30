@@ -15,7 +15,7 @@ Our data model represents the social media app, Instagram. The model consists of
 [Data Dictionary.pdf](https://github.com/eld49325/EmmaDolson_MIST4610_GroupProject1/files/11107723/Data.Dictionary.pdf)
 
 # Ten Queries
-TP_Q1: This query converts the user's date of birth into their age as an integer and then returns the name of account users who are younger than the input age. A query like this is helpful for censoring content like rated R movie trailers or explicit music to underage users.
+TP_Q1: This query converts the user's date of birth into their age as an integer and then returns the name of account users who are younger than the input age. A query like this is helpful for censoring content like rated R movie trailers or explicit music for underage users.
 
 TP_Q2: This query returns the username of accounts that have more followers than the average amount of followers for all accounts. A manager may be interested in this information to improve its algorithm and search engine.
 
