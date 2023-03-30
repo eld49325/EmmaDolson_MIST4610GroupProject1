@@ -10,8 +10,8 @@ Our data model represents the social media app, Instagram. The model consists of
 
 # Data Model
 ![Screen Shot 2023-03-30 at 12 29 34 AM](https://user-images.githubusercontent.com/128401988/228729940-6e1e7645-8a3e-4d5b-ad53-8462281e5100.png)
-1:M Relationships: users have many accounts, users can send many messages, users can receive many messages, content schedule can schedule multiple content, accounts can have many shares, content can have many shares, accounts can have many comments, comments can be added to multiple content, accounts can have many likes, likes can be given to multiple content.
-M:M Relationships: accounts can belong to many communities and communities can have many accounts, communities can have many community types and community types can have many communities
+- 1:M Relationships: users have many accounts, users can send many messages, users can receive many messages, content schedule can schedule multiple content, accounts can have many shares, content can have many shares, accounts can have many comments, comments can be added to multiple content, accounts can have many likes, likes can be given to multiple content.
+- M:M Relationships: accounts can belong to many communities and communities can have many accounts, communities can have many community types and community types can have many communities
  
 # Data Dictionary
 [Data Dictionary.pdf](https://github.com/eld49325/EmmaDolson_MIST4610_GroupProject1/files/11107723/Data.Dictionary.pdf)
