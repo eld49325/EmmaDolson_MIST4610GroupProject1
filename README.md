@@ -19,3 +19,5 @@ TP_Q1: This query converts the user's date of birth into their age as an integer
 
 TP_Q2: This query returns the username of accounts that have more followers than the average amount of followers for all accounts. A manager may be interested in this information to improve its algorithm and search engine.
 
+# Database information
+ns_21479_8
