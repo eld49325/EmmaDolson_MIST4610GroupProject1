@@ -1,9 +1,9 @@
 # 21479_8 Members
-Emma Dolson - https://github.com/eld49325/EmmaDolson_MIST4610_GroupProject1
-Hannah Kelly - 
-Shir Kochi - 
-Kaden Williams - 
-Donovan Vanderpool - 
+- Emma Dolson https://github.com/eld49325/EmmaDolson_MIST4610_GroupProject1
+- Hannah Kelly 
+- Shir Kochi 
+- Kaden Williams
+- Donovan Vanderpool 
 
 # Problem description
 Our data model represents the social media app, Instagram. The model consists of user accounts, which have associated profiles, content, and followers/following relationships. Each post can have multiple associated media, such as images or videos, which users can interact with through likes, comments, and shares. Instagram also supports messaging between users and the creation of stories, which are temporary posts that expire after a set time period. Tracking user activity helps Instagram generate personalized recommendations and trends to improve user experience. Despite being one of the most popular social media platforms in the world, Instagram does not allow its users to schedule posts in advance or to create communities of niche interests. From a backend perspective, our model demonstrates how users would interact with these two features and new insights Instagram could gain from them.
@@ -15,7 +15,7 @@ Our data model represents the social media app, Instagram. The model consists of
 # Data Dictionary
 [Data Dictionary.pdf](https://github.com/eld49325/EmmaDolson_MIST4610_GroupProject1/files/11107723/Data.Dictionary.pdf)
 
-# Ten Queries
+# Queries
 TP_Q1: This query converts the user's date of birth into their age as an integer and then returns the name of account users who are younger than the input age. A query like this is helpful for censoring content like rated R movie trailers or explicit music for underage users.
 
 TP_Q2: This query returns the username of accounts that have more followers than the average amount of followers for all accounts. A manager may be interested in this information to improve its algorithm and search engine.
