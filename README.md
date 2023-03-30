@@ -17,9 +17,15 @@ Our data model represents the social media app, Instagram. The model consists of
 [Data Dictionary.pdf](https://github.com/eld49325/EmmaDolson_MIST4610_GroupProject1/files/11107723/Data.Dictionary.pdf)
 
 # Queries
-TP_Q1: This query converts the user's date of birth into their age as an integer and then returns the name of account users who are younger than the input age. A query like this is helpful for censoring content like rated R movie trailers or explicit music for underage users.
+TP_Q1: This query converts the user's date of birth into their age as an integer and then returns the names of users who are younger than the input age. A query like this is helpful for censoring content like rated R movie trailers or explicit music for underage users.
+![Screen Shot 2023-03-30 at 6 10 37 PM](https://user-images.githubusercontent.com/128401988/228975952-f234cea1-e0df-4a5a-81ec-e56ddce18d3f.png)
+
 
 TP_Q2: This query returns the username of accounts that have more followers than the average amount of followers for all accounts. A manager may be interested in this information to improve its algorithm and search engine.
+![Screen Shot 2023-03-30 at 6 14 42 PM](https://user-images.githubusercontent.com/128401988/228975924-504bf5ab-16bc-4833-bd52-2227b2c1594b.png)
+
+TP_Q3: This query returns the account username, content type, and scheduled posting time of content posted during the year of 2010. A query like this may be useful when determining what type of content is scheduled in advance and what time of day users are most active.
+![Screen Shot 2023-03-30 at 6 24 06 PM](https://user-images.githubusercontent.com/128401988/228977506-bb971c47-98ff-446a-ac09-3b80c6b5d7f0.png)
 
 *INSERT matrix of query features*
 
