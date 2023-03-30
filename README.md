@@ -1,5 +1,5 @@
 # 21479_8 Members
-- Emma Dolson https://github.com/eld49325/EmmaDolson_MIST4610_GroupProject1
+- Emma Dolson https://github.com/eld49325/EmmaDolson_MIST4610GroupProject1
 - Hannah Kelly 
 - Shir Kochi 
 - Kaden Williams
