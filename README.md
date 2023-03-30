@@ -10,7 +10,8 @@ Our data model represents the social media app, Instagram. The model consists of
 
 # Data Model
 ![Screen Shot 2023-03-30 at 12 29 34 AM](https://user-images.githubusercontent.com/128401988/228729940-6e1e7645-8a3e-4d5b-ad53-8462281e5100.png)
-
+ *INSERT explanation of relationships*
+ 
 # Data Dictionary
 [Data Dictionary.pdf](https://github.com/eld49325/EmmaDolson_MIST4610_GroupProject1/files/11107723/Data.Dictionary.pdf)
 
@@ -18,6 +19,8 @@ Our data model represents the social media app, Instagram. The model consists of
 TP_Q1: This query converts the user's date of birth into their age as an integer and then returns the name of account users who are younger than the input age. A query like this is helpful for censoring content like rated R movie trailers or explicit music for underage users.
 
 TP_Q2: This query returns the username of accounts that have more followers than the average amount of followers for all accounts. A manager may be interested in this information to improve its algorithm and search engine.
+
+*INSERT matrix of query features*
 
 # Database information
 ns_21479_8
