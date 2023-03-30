@@ -27,6 +27,7 @@ TP_Q2: This query returns the username of accounts that have more followers than
 ![Screen Shot 2023-03-30 at 6 14 42 PM](https://user-images.githubusercontent.com/128401988/228975924-504bf5ab-16bc-4833-bd52-2227b2c1594b.png)
 
 TP_Q3:
+
 TP_Q9: This query returns the account type and number of times each account type schedules content. A query like this could be helpful for adding possible features that cater towards account types that are frequent users of the content scheduler (ex. If a sports team has games every Saturday at noon, they can schedule a recurring post for each week of the season).
 
 
