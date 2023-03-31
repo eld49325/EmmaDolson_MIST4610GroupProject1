@@ -13,7 +13,7 @@ Our data model represents the social media app, Instagram. The model consists of
 # Data Model
 ![Screen Shot 2023-03-30 at 12 29 34 AM](https://user-images.githubusercontent.com/128401988/228729940-6e1e7645-8a3e-4d5b-ad53-8462281e5100.png)
 
-A user can have many accounts. An account can send many messages. Accounts can also receive many messages. The content scheduler can schedule multiple instances of content. Accounts and content can have many shares. Accounts can make many comments. Content can have many comments. Accounts and content can have many likes. Accounts can belong to many communities and communities can have many accounts. Communities can have many community types and community types can have many communities.
+A user can have many accounts but an account can only have one user. An account can send and receive many messages but a message can only have one sender and one receiver. The content scheduler can schedule multiple instances of content but an instance of content can only have one schedule. Accounts and content can have many shares but each share can only belong to one account that shares one instance of content. Accounts can make many comments but a comment can only have one account. Content can have many comments but a comment can only belong to one instance of content. Accounts and content can have many likes but a like can only belong to one account and one instance of content. Accounts can belong to many communities and communities can have many accounts. Communities can have many community types and community types can have many communities.
  
 # Data Dictionary
 [Data Dictionary.pdf](https://github.com/eld49325/EmmaDolson_MIST4610_GroupProject1/files/11107723/Data.Dictionary.pdf)
