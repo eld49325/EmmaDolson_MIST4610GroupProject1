@@ -38,11 +38,240 @@ TP_Q5: This query returns the account handles that start with the letter "c," if
 TP_Q6: This query returns all attributes pertaining to accounts and the community they're a part of if the account uses content scheduling. A query like this may be helpful in determining certain attributes (type of account, number of posts, etc.) that may play a factor in determining whether or not the account uses the content scheduling feature.
 ![image](https://user-images.githubusercontent.com/128401988/229006685-cdd56a3e-5c13-4649-8cb8-c1b6a8cbff48.png)
 
+TP_Q7: This query will list the name and DOB of users that send messages with vanish mode and use content scheduling in order of oldest to youngest. A query like this is useful for tracking the use of some of the new features on Instagram. In more serious cases, this can also help track messages with illegal content back to their sender even if they attempt to hide the message by using vanishing mode.
+![Screen Shot 2023-03-30 at 10 43 56 PM](https://user-images.githubusercontent.com/128401988/229009731-0c72005f-2083-4c19-ae5f-b2ad2dc292e2.png)
+
+TP_Q8: This query will list accounts’ ID, handle, and the user’s name and email address associated with the accounts that have no video content posted. A query like this is useful for being able to identify and contact individuals to promote Instagram’s video functionality.
+![Screen Shot 2023-03-30 at 10 48 31 PM](https://user-images.githubusercontent.com/128401988/229010324-79f27bde-239a-46be-b596-25f9dc809473.png)
+
 
 TP_Q9: This query returns the account type and number of times each account type schedules content. A query like this could be helpful for adding possible features that cater towards account types that are frequent users of the content scheduler (ex. If a sports team has games every Saturday at noon, they can schedule a recurring post for each week of the season).
+![Screen Shot 2023-03-30 at 10 51 43 PM](https://user-images.githubusercontent.com/128401988/229010798-223b204b-95b7-42eb-8501-2d9e88078e57.png)
+
+TP_Q10: This query returns the number of shares for each content type. A manager may be interest in this data to determine what type of content is shared the most among users (could be useful for ad monetization, promotions, etc.).
+![Screen Shot 2023-03-30 at 11 02 51 PM](https://user-images.githubusercontent.com/128401988/229012597-cf0cbdfa-f5da-46da-b5d9-66b192682852.png)
 
 
-*INSERT matrix of query features*
+
+TP_Q1
+TP_Q2
+TP_Q3
+TP_Q4
+TP_Q5
+TP_Q6
+TP_Q7
+TP_Q8
+TP_Q9
+TP_Q10
+Multiple table join
+
+
+
+
+X
+
+
+X
+
+
+X
+X
+
+
+
+
+Join
+
+
+
+
+
+
+X
+
+
+
+
+X
+X
+X
+X
+Subquery
+
+
+X
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GROUP BY
+
+
+
+
+
+
+
+
+X
+
+
+
+
+
+
+X
+
+
+GROUP BY with HAVING
+
+
+X
+
+
+X
+
+
+
+
+
+
+
+
+
+
+
+
+Nested subquery
+
+
+
+
+
+
+
+
+
+
+
+
+X
+
+
+
+
+
+
+Built-in Function
+X
+X
+
+
+X
+
+
+
+
+
+
+
+
+
+
+
+
+Multi Condition WHERE
+
+
+
+
+
+
+
+
+
+
+
+
+X
+X
+
+
+
+
+REGEXP
+
+
+
+
+
+
+
+
+X
+
+
+
+
+
+
+
+
+
+
+EXISTS/NOT EXISTS
+
+
+
+
+X
+
+
+
+
+
+
+X
+
+
+
+
+
+
+AND/OR
+
+
+
+
+
+
+
+
+
+
+
+
+X
+X
+
+
+
+
+
+
 
 # Database information
 ns_21479_8
+PROCEDURE format: TP_QX
