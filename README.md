@@ -4,7 +4,7 @@
 - [Emma Dolson](https://github.com/eld49325/EmmaDolson_MIST4610GroupProject1)
 - [Hannah Kelly](https://github.com/hannahkelly98765/MIST-4610)
 - [Shir Kochi](https://github.com/shirkorchi/GroupProject1)
-- Kaden Williams
+- [Kaden Williams](https://github.com/kadenwilliams1/21479_-8)
 - [Donovan Vanderpool](https://github.com/donovanv2/MIST4610/)
 
 # Problem description
